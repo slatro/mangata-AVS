@@ -233,7 +233,7 @@ docker logs -f <container_id>
 # container id başta olur ve kurduğunuz node'un isminden hangi id olduğunu anlayabilirsiniz.
 ```
 
-> Loglarınızı Mangata AVS kanalına atıp rolünüzüde alabilirsiniz.
+> Loglarınızı Mangata AVS kanalına atıp rolünüzüde alabilirsiniz...
 
 > işlemler bu kadardı, sırf sorun var mı diye tekrar test edip kurdum sorun yok çünkü bu repoyu eskiden yazdım.
 
